@@ -1,4 +1,12 @@
-
+.footer {
+  background-color: #007cba;
+  color: white;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
 
 
 .header-logo {
@@ -9,10 +17,17 @@
 
 
 
+
+
+  
+
 .btn-primary {
   background-color: #007cba;
   color: white;
 }
+
+
+
 
 
 
